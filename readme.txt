@@ -5,3 +5,5 @@ Git has a mutable index called stage.
 hello world
 
 linmaohao
+
+are you ok
